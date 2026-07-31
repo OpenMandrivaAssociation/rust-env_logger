@@ -4,8 +4,8 @@
 %global crate env_logger
 
 Name:           rust-%{crate}
-Version:        0.8.3
-Release:        2
+Version:        0.11.11
+Release:        1
 Summary:        Logging implementation for `log` which is configured via environment variable
 
 # Upstream license specification: MIT/Apache-2.0
